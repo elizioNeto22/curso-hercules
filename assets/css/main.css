@@ -2510,3 +2510,12 @@ section {
 .pt-lg-5 {
   padding-top: 20px !important;
 }
+
+.whats-button {
+  position: fixed;
+  z-index: 1000;
+  height: 40px;
+  width: 40px;
+  left: 40px;
+  bottom: 20px;
+}
