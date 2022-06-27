@@ -1,0 +1,80 @@
+◘ botão fale conosco (hover color red)
+
+○ hover de perguntas 
+
+◘ página de produtos
+
+
+index.php
+
+index-.html
+
+parceiros.html
+
+produtos.php
+
+
+
+
+
+https://fimtechenergia.com.br/wp-admin/customize.php?url=https%3A%2F%2Ffimtechenergia.com.br%2F
+
+
+
+Olá, seguem as observações feitas para o site:
+
+•••• Redes sociais: apenas o instagram e facebook.
+
+•••• Ajeitar a fonte em diversos locais, está muito estranho as letras/palavras acentuadas
+
+•••• Portfólio: não foi pedido
+
+•••• Nosso time: não foi pedido
+
+•••• Mapa: faltando um redirecionamento para o maps
+
+•••• Após o home uma aba para conter informações dos concursos
+
+•••• Turmas: em formato de colunas com o clique ao final redirecionando
+
+•••• Depoimentos: ao clicar, ele volta para cima, não há nada, está estranho
+
+•••• Sua preparação no lugar certo após as informações 
+
+
+
+
+
+
+
+•• Sobre Nós: Ser lá em baixo, vai conter missão, valores e visão →→→→ Faltam Missão, Valores e Visão
+
+
+
+
+
+
+• Aba do blog não foi inserida como pedido em reunião →→→→ Inserido, mas faltam as informações
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

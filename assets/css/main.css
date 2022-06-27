@@ -851,21 +851,22 @@ section {
 }
 
 .tab-content .tab-column {
-  width: 30%;
+  width: 45%;
   flex: 1;
   margin: 0px 20px;
 }
 
 .tab-content .tab-column h2 {
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .tab-content .tab-column p {
-  height: 150px;
+  margin-bottom: 20px;
 }
 
 .tab-content .tab-column img {
   height: 300px;
+  padding: 0px;
 }
 
 @media (max-width: 575px) {
@@ -1168,6 +1169,28 @@ section {
   position: relative;
 }
 
+.testimonials h2 {
+  text-transform: uppercase;
+  margin-bottom: 25px;
+  color: #3f81bb;
+  font-family: 'sport', Arial, sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+.testimonials .depoimentos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.testimonials .depoimentos a img {
+  border-radius: 10px;
+  width: 500px;
+  height: 250px;
+}
+
+.testimonials .depoimentos a img:hover {
+  box-shadow: 0 3px 20px -2px rgb(0, 0, 0);
+}
 /*
 .testimonials::before {
   content: "";

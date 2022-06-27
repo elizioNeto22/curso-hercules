@@ -451,7 +451,6 @@ a:hover {
   height: 100%;
 }
 #hero .carousel-item {
-  background-image: url('assets/img/slide/primeira-transicao.jpeg');
   background-size: center;
   background-position: center;
   background-repeat: no-repeat;
@@ -954,6 +953,7 @@ a:hover {
   margin-bottom: 15px;
   color: #3f81bb;
   font-family: 'sport', Arial, sans-serif;
+  padding-left: 80px;
 }
 #contact .info i {
   font-size: 32px;
@@ -1056,6 +1056,7 @@ a:hover {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+
 .site-footer {
   background: rgb(63, 129, 187);
   background: linear-gradient(106deg, rgba(63, 129, 187, 1) 22%, rgba(80, 169, 248, 1) 41%);
